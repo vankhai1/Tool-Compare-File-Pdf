@@ -1,14 +1,15 @@
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\bin\Debug\CompareFilePdf.exe.config
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\bin\Debug\CompareFilePdf.exe
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\bin\Debug\CompareFilePdf.pdb
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\bin\Debug\itextsharp.dll
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\bin\Debug\itextsharp.xml
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.csproj.AssemblyReference.cache
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.csproj.SuggestedBindingRedirects.cache
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.Properties.Resources.resources
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.csproj.GenerateResource.cache
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.csproj.CoreCompileInputs.cache
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.csproj.CopyComplete
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.exe
-C:\Users\T69SHOP\OneDrive\Máy tính\Compare 2 File PDF\CompareFilePdf\CompareFilePdf\obj\Debug\CompareFilePdf.pdb
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\bin\Debug\CompareFilePDF.exe.config
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\bin\Debug\CompareFilePDF.exe
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\bin\Debug\CompareFilePDF.pdb
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.csproj.AssemblyReference.cache
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.Form1.resources
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.Properties.Resources.resources
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.csproj.GenerateResource.cache
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.csproj.CoreCompileInputs.cache
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.exe
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.pdb
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\bin\Debug\itextsharp.dll
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\bin\Debug\itextsharp.xml
+C:\Users\T69SHOP\OneDrive\Máy tính\CompareFilePdf\CompareFilePDF\CompareFilePDF\obj\Debug\CompareFilePDF.csproj.CopyComplete

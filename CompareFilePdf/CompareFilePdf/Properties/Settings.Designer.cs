@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CompareFilePdf.Properties
+namespace CompareFilePDF.Properties
 {
 
 
